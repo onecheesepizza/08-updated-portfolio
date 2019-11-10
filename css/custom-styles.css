@@ -4,3 +4,20 @@
 .repo-link {
     color:#007bff !important;
 }
+#call-to-action{
+    font-size: .75em;
+    border: 1px solid white !important;
+    padding: .5em;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+}
+#call-to-action:hover{
+    font-size: .75em;
+    border: 1px solid black !important;
+    padding: .5em;
+    color:black;
+    background-color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    transition: all ease .35s;
+}

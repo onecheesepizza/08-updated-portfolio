@@ -11,6 +11,6 @@
 
 A modern responsive developer portfolio that showcases select professional and academic projects. 
 
-Live Site: https://onecheesepizza.github.io/08-updated-portfolio/
+Live Site: https://zebranode.github.io/08-updated-portfolio/
 
 ![Screenshot](img/portfolio-screenshot.png)
